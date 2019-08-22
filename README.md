@@ -18,4 +18,4 @@ tagall      = Tag Semua Member dalam Group <br>
 ceksider    = Mengecek CCTV <br>
 offread     = Tampilkan CCTV <br>
 <hr>
-source : linepy by https://github.com/fadhiilrachman/
+git clone https://github.com/virojano19/simpleSB
